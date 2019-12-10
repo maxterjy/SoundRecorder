@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#ff3333"></solid>
+            <size android:width="32dp" android:height="32dp"></size>
+        </shape>
+    </item>
+
+    <item android:drawable="@android:drawable/ic_menu_close_clear_cancel"
+        android:width="24dp" android:height="24dp"
+        android:gravity="center">
+    </item>
+</layer-list>
